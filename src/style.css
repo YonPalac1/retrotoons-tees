@@ -659,7 +659,7 @@ header .container .titles .call-to-action div {
         max-width: 100%;
     }
     .talent .container .image img {
-        max-width: 300px;
+        max-width: 500px;
     }
     .talent .container .description .contact  {
         flex-direction: column;
@@ -689,6 +689,7 @@ header .container .titles .call-to-action div {
     background-color: var(--yellow);
     padding: 2rem 1rem 1rem;
     color: var(--blue);
+    width: 20%;
     min-width: 183px;
     font-size: 1.1rem;
 }
@@ -800,7 +801,7 @@ header .container .titles .call-to-action div {
         flex-direction: column;
     }
     .how-works .cards {
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(1, 1fr);
     }
     .how-works .card {
         min-width: 180px;
