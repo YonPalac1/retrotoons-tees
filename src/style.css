@@ -648,7 +648,6 @@ header .container .titles .call-to-action div {
     }
     .talent .container .image {
         width: 100%;
-        padding: 5rem;
     }
     .talent .container .description {
         width: 100%;
@@ -658,9 +657,6 @@ header .container .titles .call-to-action div {
 @media screen and (max-width: 635px) {
     .talent .container {
         max-width: 100%;
-    }
-    .talent .container .image {
-        padding: 4rem 0 2rem;
     }
     .talent .container .image img {
         max-width: 300px;

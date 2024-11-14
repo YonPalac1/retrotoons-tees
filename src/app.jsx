@@ -82,9 +82,9 @@ const App = () => {
                         <h2>Nuestra Misión</h2>
                     </Reveal>
                     <Reveal delay={0.75}>
-                        <p>En RetroToons Tees, nos apasiona la creatividad y la originalidad. Queremos que cada remera sea una obra de arte única, reflejando la personalidad y el estilo de cada cliente. Nuestro equipo de diseñadores y artistas trabaja arduamente para crear estampados exclusivos, inspirados en el estilo Rubber Hose, que te harán sentir como si estuvieras en una época diferente.</p>
+                        <p>En RetroToons Tees, nos apasiona la creatividad y la originalidad. Queremos que cada remera sea una obra de arte única, reflejando la personalidad y el estilo de cada cliente.</p>
                         <p>
-                        Nuestra misión es ofrecer remeras que no solo sean cómodas y de alta calidad, sino que también cuenten una historia. Cada diseño es cuidadosamente creado para reflejar la esencia de nuestro estilo retro, con un toque moderno y personalizado. En Remeras Únicas, nos comprometemos a ofrecerte una experiencia de compra excepcional, con atención personalizada y un servicio de diseño que se adapta a tus necesidades. ¡Únete a nuestra comunidad y descubre la magia de las remeras únicas!
+                        Cada diseño es cuidadosamente creado para reflejar la esencia de nuestro estilo retro, con un toque moderno y personalizado. En Remeras Únicas, nos comprometemos a ofrecerte una experiencia de compra excepcional, con atención personalizada y un servicio de diseño que se adapta a tus necesidades. ¡Únete a nuestra comunidad y descubre la magia de las remeras únicas!
                         </p>
                     </Reveal>
                     <div className="contact">
