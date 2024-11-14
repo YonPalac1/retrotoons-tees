@@ -11,7 +11,6 @@ import Feedback from "./components/Feedback";
 import { Reveal } from "./commons/Reveal";
 
 import header from "./assets/images/tco.webp"
-import circleText from "./assets/images/circle-text.png"
 import tcook from "./assets/images/tco-ok.webp"
 import tcomeet from "./assets/images/tco-meet.webp"
 
@@ -70,7 +69,6 @@ const App = () => {
             <div className="container">
 
                 <div className="image">
-                    <img className="circle-text" src={ circleText } alt="Tu contador online" />
                     <Reveal delay={0.35}>
                         <img className="ok" src={ tcook } alt="tu contador online icon" />
                     </Reveal>
